@@ -2117,7 +2117,7 @@
 		)
 		(uuid "b235efeb-65d7-4eff-8173-97bc86c0b429")
 	)
-	(text "| Référence | Couleur | Sérigraphie | Description de la fonction des LED       |\n| --------- | ------- | ----------- | ---------------------------------------- |\n| LED D1    | Jaune   | STAT        | Indicateur de Status                     |\n| LED Dx    | Vert    | MODE        | Indique le mode de fonctionnement actuel |\n| LED Dy    | Rouge   | ERR         | Indicateur de détection d'erreur         |"
+	(text "| Référence | Couleur | Sérigraphie | Description de la fonction des LED       |\n| --------- | ------- | ----------- | ---------------------------------------- |\n| LED D1    | Jaune   | STAT        | Indicateur de Status                     |\n| LED D2    | Vert    | MODE        | Indique le mode de fonctionnement actuel |\n| LED D3    | Rouge   | ERR         | Indicateur de détection d'erreur         |"
 		(exclude_from_sim no)
 		(at 171.704 70.104 0)
 		(effects
@@ -2234,16 +2234,8 @@
 		(uuid "04e1eb50-0b77-428c-90eb-31e50c0084f0")
 	)
 	(no_connect
-		(at 90.17 59.69)
-		(uuid "059afb75-c097-4088-bbd6-cb7aa8665db6")
-	)
-	(no_connect
 		(at 90.17 39.37)
 		(uuid "0fcfb760-c3c4-4f19-b08e-66723745b1de")
-	)
-	(no_connect
-		(at 171.45 52.07)
-		(uuid "1548a7b3-6c9b-40c9-8c5d-cddb9913638b")
 	)
 	(no_connect
 		(at 90.17 72.39)
@@ -2306,20 +2298,12 @@
 		(uuid "c0509571-2b54-47c8-8c4e-ad7d0a8f8a0f")
 	)
 	(no_connect
-		(at 171.45 49.53)
-		(uuid "c1974f62-9892-4432-9365-534df3002816")
-	)
-	(no_connect
 		(at 36.83 85.09)
 		(uuid "c6ad540b-d2b5-4794-be2e-eb667424e82f")
 	)
 	(no_connect
 		(at 36.83 82.55)
 		(uuid "cb7932fe-92af-441b-8d91-47777362f71d")
-	)
-	(no_connect
-		(at 90.17 57.15)
-		(uuid "cc228d24-5812-43ad-a185-7c4aa5589b70")
 	)
 	(no_connect
 		(at 49.53 44.45)
@@ -2877,7 +2861,7 @@
 		)
 		(uuid "390db11b-8a0f-496a-9dbd-3a5897e1856e")
 	)
-	(label "Dy"
+	(label "D10"
 		(at 171.45 52.07 180)
 		(effects
 			(font
@@ -2907,7 +2891,7 @@
 		)
 		(uuid "fca29d8f-118d-4179-be14-0810964a3873")
 	)
-	(label "Dx"
+	(label "D9"
 		(at 171.45 49.53 180)
 		(effects
 			(font
