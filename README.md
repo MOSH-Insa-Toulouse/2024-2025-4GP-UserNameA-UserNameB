@@ -3,4 +3,5 @@
 ## Ma todo liste
 
 - [x] Créer le dépôt
-- [ ] Modifier le fichier principale de la documentation du repo `README.md`
+- [x] Modifier le fichier principale de la documentation du repo `README.md`
+- [x] Ajout du template pour la shield UNO
